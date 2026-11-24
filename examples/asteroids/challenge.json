@@ -1,0 +1,11 @@
+{
+  "challengeId": "asteroids",
+  "name": "Asteroids",
+  "description": "Free-for-all retro Asteroids for 2 to 4 teams. Shoot asteroids (20/50/100 pts) to score; shoot rival ships to knock them out for 5 seconds so they cannot steal your asteroids.",
+  "categoryAwards": [],
+  "timeoutMilliseconds": 300000,
+  "config": {
+    "matchSize": 4,
+    "minMatchSize": 2
+  }
+}
